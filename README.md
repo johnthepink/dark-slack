@@ -12,3 +12,5 @@ cd dark-slack
 npm install -g nativefier
 nativefier https://[your-org].slack.com --inject darkslack.css --name "Dark Slack" --icon slack.icns
 ```
+
+Now you should have a new folder with Dark Slack inside of it.
