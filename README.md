@@ -2,7 +2,7 @@
 
 ![](dark-slack.png)
 
-Yes, a real dark theme for Slack. But, you have to build it yourself. It's so easy!
+Yes, a real dark theme for Slack on OSX. But, you have to build it yourself. It's so easy!
 
 This is great for those of us with bleeding eyes, the only downfall is that since we are wrapping the web app you will lose the organization switcher on the left side. However, you can still easily sign in to multiple organizations and switch using command-K.
 
